@@ -1,3 +1,8 @@
+#### Since there isn't a lot for me to manage, you can simply open an issue with a request label.
+example. https://github.com/AtomScott/awesome-sports-analytics/issues/1
+
+<hr>
+
 # The awesome manifesto
 
 If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
